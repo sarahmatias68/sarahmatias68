@@ -8,8 +8,8 @@
 
 #
 
-- Trabalho com infraestrutura e rede de computadores, 
-- E estou estudando as tecnologias Flutter e React Native para desenvolvimento mobile ..
+ 🚀 Sou Engenheira da Computação, mas atualmente trabalho com infraestrutura e rede de computadores, 
+além disso, estou estudando as tecnologias Flutter e React Native para desenvolvimento mobile ..
 ##
 
 <div align="center">
