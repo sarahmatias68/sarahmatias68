@@ -8,8 +8,8 @@
 
 #
 
-- 🔭 Trabalho com infraestrutura e rede de computadores,
-- 🌱 E estou estudando as tecnologias Flutter e React Native para desenvolvimento mobile ..
+- Trabalho com infraestrutura e rede de computadores, 
+- E estou estudando as tecnologias Flutter e React Native para desenvolvimento mobile ..
 ##
 
 <div align="center">
